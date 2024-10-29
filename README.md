@@ -2,11 +2,11 @@
 
 # 💫 About Me:
 
-🔭Currently learning ML models and implementation on the website <br>👯 I’m currently serving as Google Developer Student Club Lead and hackathon director for my college [California State University Long Beach]<br>🤝 I’m looking to learn through an internship in the Summer of 2025.<br>Learn more about me-<br>sroth.tech    Thanks to https://gprm.itsvg.in/ for an amazing github profile  <br>
+🔭Currently learning ML models and implementation on the website <br>👯 I’m currently serving as Google Developer Student Club Lead and hackathon director for my college [California State University Long Beach]<br>🤝 I’m looking to learn through an internship in the Summer of 2025.<br>Learn more about me-<br>sroth.tech    Thanks to https://gprm.itsvg.in/ for an amazing GitHub profile  <br>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sroth-sinha-computer-science/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/goatisher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scoi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/goatisher)
 
 # 💻 Tech Stack:
 
