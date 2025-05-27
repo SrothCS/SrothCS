@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭Currently learning ML models and implementation on the website <br>👯 I’m currently serving as Google Developer Student Club Lead and hackathon director for my college [California State University Long Beach]<br>🤝 I’m looking to learn through an internship in the Summer of 2025.<br>Learn more about me-<br>sroth.tech    Thanks to https://gprm.itsvg.in/ for an amazing GitHub profile  <br>
+🔭Currently learning ML models and implementation on the website <br>👯 I’m currently serving as Google Developer Student Club Lead and hackathon director for my college [California State University Long Beach]Learn more about me-<br>sroth.tech    Thanks to https://gprm.itsvg.in/ for an amazing GitHub profile  <br>
 
 ## 🌐 Socials:
 
